@@ -5,6 +5,7 @@
 library(tidytuesdayR)
 library(tidyverse)
 library(showtext)
+library(tidytext)
 
 # add font
 font_add_google(name = "Jost", family = "Jost")
