@@ -53,7 +53,7 @@ words %>%
         axis.line.y = element_line(color = "#000000"),
         plot.background = element_rect(color = "white", fill = "white")) +
   labs(title = "Love, Love, La and the Spice Girls",
-       subtitle = "Top 10 most used words by Album",
+       subtitle = "Top 10 most used words in song lyrics by Album",
        caption = "\n#tidytuesday | Data: Genius.com by way of Jacquie Tran | Design: Ryan Hart")
 
 # save plot
